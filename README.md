@@ -2,7 +2,6 @@
 
 Estudante de Desenvolvimentos de Sistemas no SENAI, em busca de oportunidades na área de tecnologia.
 
-🔭 Estou aprendendo lógica de programação em Java 
 💬 Seja bem vindo(a), deixe sua mensagem.
 
 ---
